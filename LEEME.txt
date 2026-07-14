@@ -1,0 +1,21 @@
+AUTO CABRILLA MX V2 — ESTRUCTURA MODULAR
+
+Abrir:
+1. Descomprima la carpeta.
+2. Abra index.html en Chrome o Edge.
+
+Estructura:
+- index.html: interfaz principal.
+- css/estilos.css: diseño visual.
+- js/app.js: motor y lógica principal heredada.
+- js/diagramas.js: diagramas y presentación.
+- js/mejoras.js: mejoras de visualización.
+- js/apoyos.js: reacciones y recomendación preliminar de PTR para postes.
+- data/perfiles_postes.json: catálogo nominal usado por el módulo de postes.
+
+Alcance del nuevo módulo:
+- Carga distribuida uniforme.
+- Apoyo articulado + rodillo.
+- Reacciones RA y RB.
+- Revisión axial preliminar del poste por pandeo global.
+- No sustituye la revisión de viento, flexocompresión, placa base, anclajes ni cimentación.
